@@ -17,7 +17,7 @@ is possible too.
 
 In this article, explains |Fess| 8.1.0. About how to build a
 |Fess| \ `Introduction
-chapter <http://codezine.jp/article/detail/4526>`__\ Please see the.
+chapter <http://codezine.jp/article/detail/4526>`__\  Please see the.
 
 Intended audience
 =================
